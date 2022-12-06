@@ -1,0 +1,6 @@
+node_modules
+notes-api-web-server.pem
+.env
+.prod.env
+package-lock.json
+src/api/uploads/file
